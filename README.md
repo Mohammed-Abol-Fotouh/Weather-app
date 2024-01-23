@@ -50,6 +50,5 @@ Users should be able to:
 
 ### What I learned
 
--In this project i learned how to use tkinter library
-
+- In this project i learned how to use tkinter library
 - How to implement API request
