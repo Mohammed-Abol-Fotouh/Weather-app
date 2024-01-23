@@ -39,12 +39,14 @@ Users should be able to:
 
 - I used miro for planning for this project
 - I used the right libraries and API's to make the GUI and search for cities
+- I used chatGPT for code refactoring and enhancement
 
 ### Built with
 
 - Python
 - Python tkinter library
 - requests library for weather API
+- chatGPT for enhanced version of the project
 
 ### What I learned
 
